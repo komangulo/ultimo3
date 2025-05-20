@@ -25,7 +25,7 @@ const Sidebar = () => {
           </div>
           
           <div className="border-b pb-3">
-            <p className="font-medium">amo dominante Madrid , dominante Madrid BDSM , BDSM Madrid , dominación Madrid, dominante madrid , bdsm madrid , busco dominante madrid, fetlife madrid , relacion bdsm Madrid, amo en madrid.</p>
+            <p className="font-medium">Amo dominante Madrid , dominante Madrid BDSM , BDSM Madrid , dominación Madrid, dominante madrid , bdsm madrid , busco dominante madrid, fetlife madrid , relacion bdsm Madrid, amo en madrid , amo madrid bdsm , fetlife, sumisa busca amo, sumisa busca dominante.</p>
           </div>
         </div>
         
