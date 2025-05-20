@@ -25,7 +25,7 @@ const Sidebar = () => {
           </div>
           
           <div className="border-b pb-3">
-            <p className="font-medium">Amo dominante Madrid , dominante Madrid BDSM , BDSM Madrid , dominación Madrid, dominante madrid , bdsm madrid , busco dominante madrid, fetlife madrid , relacion bdsm Madrid, amo en madrid , amo madrid bdsm , fetlife, sumisa busca amo, sumisa busca dominante.</p>
+            <p className="font-medium">Amo dominante en Madrid, dominante BDSM experimentado en Madrid, sesiones de BDSM reales, dominación erótica en Madrid, amo profesional BDSM Madrid, sumisa busca dominante serio, relaciones D/s en Madrid, fetichismo y sumisión Madrid, comunidad BDSM en Fetlife Madrid, encuentros BDSM seguros, guía BDSM para principiantes en Madrid, amo exigente y respetuoso, contacto con dominante en Madrid, prácticas BDSM consensuadas.</p>
           </div>
         </div>
         
