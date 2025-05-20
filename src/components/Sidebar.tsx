@@ -25,7 +25,7 @@ const Sidebar = () => {
           </div>
           
           <div className="border-b pb-3">
-            <p className="font-medium">Se puede crear vínculos de todo tipo, aunque no seas perfecta. Primero aprendes a servir en privado y luego en público. Tu educación como esclava requiere aprendizaje.</p>
+            <p className="font-medium"amo dominante Madrid , dominante Madrid BDSM , BDSM Madrid , dominación Madrid, dominante madrid , bdsm madrid , busco dominante madrid, fetlife madrid , relacion bdsm Madrid, amo en madrid.</p>
           </div>
         </div>
         
