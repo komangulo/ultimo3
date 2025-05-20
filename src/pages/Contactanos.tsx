@@ -16,13 +16,8 @@ const Contactanos = () => {
             
             <div className="bg-white dark:bg-card rounded-lg shadow-md p-6">
               <h2 className="text-xl font-bold mb-4">Información de contacto</h2>
+
               
-              <div className="space-y-3">
-                <div className="flex items-center gap-4">
-                  <span className="font-bold">Mi tel.: </span>
-                  <WhatsAppModal />
-                </div>
-                
                 <div className="flex items-start gap-2">
                   <span className="font-bold">Formulario de contacto</span>
                   <a href="https://eu.jotform.com/build/251222460195349" target="_blank" rel="noopener noreferrer">
