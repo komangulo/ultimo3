@@ -177,7 +177,7 @@ const blogPosts = {
     date: '25 de Mayo, 2025',
     author: 'Admin',
   },
-  'cuarto-articulo': {
+  'filias-fetiches-bdsm': {
     title: 'El Dominante como Guía del Deseo: Filias, Fetiches y la Belleza de Aceptarlo Todo',
     content: (
       <>

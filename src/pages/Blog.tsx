@@ -57,7 +57,7 @@ const Blog = () => {
                     <p className="text-gray-600 dark:text-gray-300 mb-4">
                     En un mundo que aún arrastra prejuicios sobre lo sexual, ser un amo dominante en Madrid es mucho más que dirigir o controlar. 
                     </p>
-                    <a href="/blog/filias-fetiches-bdsm" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
+                    <a href="/blog/filias-fetiches-bdsm" className="text-[#a51c30] font-medium hover:underline" target="_blank" rel="noopener noreferrer">Leer más</a>
                   </div>
                 </div>
               </div>
