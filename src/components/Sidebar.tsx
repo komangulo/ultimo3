@@ -25,18 +25,12 @@ const Sidebar = () => {
           </div>
           
           <div className="border-b pb-3">
-            <p className="font-medium">¿Buscas un amo dominante Madrid que guíe tus pasos en el mundo del BDSM Madrid? Encuentra la conexión perfecta en el ámbito de la dominación Madrid, donde la sumisión y el control se fusionan bajo la mano firme de un dominante Madrid BDSM.
-
-Si eres una sumisa busca dominante o una sumisa busca amo en Madrid, deseas explorar una relación BDSM Madrid, estás en el lugar indicado. Nuestra comunidad conecta a quienes buscan un amo en Madrid con experiencia en BDSM, disciplina y juegos de poder.
-
-¿Eres nuevo en el mundo del fetlife Madrid? Descubre un espacio seguro donde explorar tus fantasías y conectar con personas afines. Ya sea que busco dominante Madrid o quieras profundizar en el fetlife, aquí encontrarás lo que necesitas.
-
-Si tu deseo es servir a un amo Madrid BDSM, déjate llevar por la experiencia de un verdadero dominante en Madrid. Contáctame.</p>
+            <p className="font-medium">Se puede crear vínculos de todo tipo, aunque no seas perfecta. Primero aprendes a servir en privado y luego en público. Tu educación como esclava requiere aprendizaje.</p>
           </div>
         </div>
         
         <div className="mt-4">
-          <Link to="/contactanos">
+          <Link to="/contactame">
             <Button className="w-full bg-primary hover:bg-primary/90">Sométete a mi</Button>
           </Link>
         </div>
