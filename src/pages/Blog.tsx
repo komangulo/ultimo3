@@ -53,11 +53,41 @@ const Blog = () => {
                 
                 <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
                   <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-3">De Sumisa a Esclava: Un Viaje Guiado por un Amo con Experiencia en Madrid</h2>
+                    <p className="text-gray-600 dark:text-gray-300 mb-4">
+                      Descubre el profundo viaje de transformación de sumisa a esclava, guiado por un amo dominante con experiencia en Madrid. Un proceso de entrega total y crecimiento mutuo.
+                    </p>
+                    <a href="/blog/de-sumisa-a-esclava-un-viaje-guiado-por-un-amo-con-experiencia-en-madrid" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
+                  </div>
+                </div>
+                
+                <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
+                  <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-3">Humillación y Degradación: Tu Camino al Entrenamiento de Obediencia</h2>
+                    <p className="text-gray-600 dark:text-gray-300 mb-4">
+                      Explora cómo la humillación y la degradación, guiadas por un amo dominante con experiencia en Madrid, pueden convertirse en herramientas poderosas para el entrenamiento de obediencia y crecimiento personal.
+                    </p>
+                    <a href="/blog/humillacion-y-degradacion-tu-camino-al-entrenamiento-de-obediencia-con-un-amo-dominante-en-madrid" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
+                  </div>
+                </div>
+                
+                <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
+                  <div className="p-6">
                     <h2 className="text-2xl font-bold mb-3">El Dominante como Guía del Deseo: Filias, Fetiches y la Belleza de Aceptarlo Todo</h2>
                     <p className="text-gray-600 dark:text-gray-300 mb-4">
                     En un mundo que aún arrastra prejuicios sobre lo sexual, ser un amo dominante en Madrid es mucho más que dirigir o controlar. 
                     </p>
                     <a href="/blog/filias-fetiches-bdsm" className="text-[#a51c30] font-medium hover:underline" target="_blank" rel="noopener noreferrer">Leer más</a>
+                  </div>
+                </div>
+                
+                <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
+                  <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-3">Preguntas y Respuestas: La Sumisión en el BDSM</h2>
+                    <p className="text-gray-600 dark:text-gray-300 mb-4">
+                    Descubre el verdadero significado de la sumisión en el BDSM, más allá de los estereotipos. Aprende qué significa ser sumisa y cómo se vive esta experiencia.
+                    </p>
+                    <a href="/blog/preguntas-y-respuestas-la-sumision-en-el-bdsm-mas-alla-del-significado" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
                   </div>
                 </div>
               </div>
