@@ -23,6 +23,16 @@ const Blog = () => {
               <div className="grid gap-6 md:grid-cols-2">
                 <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
                   <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-3">Sumisión 24/7: Vivir la Dinámica D/s a Tiempo Completo</h2>
+                    <p className="text-gray-600 dark:text-gray-300 mb-4">
+                      Explora el mundo de la sumisión 24/7 en el BDSM: una guía completa sobre cómo vivir la dinámica D/s de manera constante, con consejos prácticos, beneficios y desafíos.
+                    </p>
+                    <a href="/blog/sumision-24-7-vivir-la-dinamica-ds-a-tiempo-completo" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
+                  </div>
+                </div>
+                
+                <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
+                  <div className="p-6">
                     <h2 className="text-2xl font-bold mb-3">El Arte de la Dominación: La Belleza de Ser un Amo Dominante en Madrid</h2>
                     <p className="text-gray-600 dark:text-gray-300 mb-4">
                       Descubre el verdadero significado de ser un Amo Dominante en Madrid. Una mirada profunda a la dominación consciente y el estilo de vida BDSM.
@@ -38,6 +48,26 @@ const Blog = () => {
                       Explora la profundidad de las relaciones D/s a largo plazo en Madrid, donde la dominación consciente trasciende lo físico para convertirse en un vínculo emocional duradero.
                     </p>
                     <a href="/blog/dominante-largo-plazo" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
+                  </div>
+                </div>
+                
+                <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
+                  <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-3">Iniciación, Orientación y Formación BDSM para Sumisas en Madrid</h2>
+                    <p className="text-gray-600 dark:text-gray-300 mb-4">
+                      Descubre un enfoque único de formación BDSM para sumisas en Madrid, centrado en la seguridad, el consentimiento y el crecimiento personal a través de la guía de un mentor experimentado.
+                    </p>
+                    <a href="/blog/iniciacion-orientacion-y-formacion-bdsm-para-sumisas-en-madrid-mi-trayectoria-como-mentor" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
+                  </div>
+                </div>
+                
+                <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
+                  <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-3">Mentor BDSM en Madrid: Mi Experiencia Guiando a Principiantes y Expertos</h2>
+                    <p className="text-gray-600 dark:text-gray-300 mb-4">
+                      Descubre cómo un mentor BDSM en Madrid puede guiarte en tu viaje de autodescubrimiento, desde principiantes hasta practicantes avanzados, con un enfoque en seguridad, ética y disfrute mutuo.
+                    </p>
+                    <a href="/blog/mentor-bdsm-en-madrid-mi-experiencia-guiando-a-principiantes-y-expertos" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
                   </div>
                 </div>
                 
@@ -68,6 +98,16 @@ const Blog = () => {
                       Explora cómo la humillación y la degradación, guiadas por un amo dominante con experiencia en Madrid, pueden convertirse en herramientas poderosas para el entrenamiento de obediencia y crecimiento personal.
                     </p>
                     <a href="/blog/humillacion-y-degradacion-tu-camino-al-entrenamiento-de-obediencia-con-un-amo-dominante-en-madrid" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
+                  </div>
+                </div>
+                
+                <div className="bg-white dark:bg-card rounded-lg shadow-md overflow-hidden">
+                  <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-3">Sumisa Servicial, Esclava y Roles Afines en el BDSM</h2>
+                    <p className="text-gray-600 dark:text-gray-300 mb-4">
+                    Una guía completa sobre los diferentes roles de sumisión en el BDSM, incluyendo sumisa servicial, esclava, pequeña y babygirl, basada en experiencia real como mentor.
+                    </p>
+                    <a href="/blog/sumisa-servicial-esclava-y-roles-afines-en-el-bdsm-guia-completa" className="text-[#a51c30] font-medium hover:underline">Leer más</a>
                   </div>
                 </div>
                 
